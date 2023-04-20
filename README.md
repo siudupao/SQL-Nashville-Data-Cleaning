@@ -1,4 +1,4 @@
-# Data-Cleaning-with-Housing-Data
+# SQL-Data-Cleaning-with-Housing-Data
 
 Data Used: Nashville Housing Data, a dataset compiling home value data for the Nashville, Tennessee market. There are 56,000+ entries. Posted on Kaggle.
 
